@@ -1,0 +1,16 @@
+build/
+doc/
+jsdoc/
+test/
+public/
+node_modules/
+.github
+.vscode
+.serverless_plugins
+
+*.css
+*.html
+*.snap
+
+webpack.config.js
+serviceWorker.js
