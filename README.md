@@ -3,13 +3,16 @@
 ### Manual configured S3/cloudfront resources:
 
 S3 link - http://rs-aws-shop-app.s3-website-eu-west-1.amazonaws.com
+
 Cloudfront link - http://dxznle5hhi8pv.cloudfront.net
 
 ### Automated configured S3/cloudfront resources:
 
 S3 link - http://rs-aws-shop-app-autosls.s3-website-us-east-1.amazonaws.com
+
 Cloudfront link - https://d1on0ca19vpq6m.cloudfront.net
 
+## App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
